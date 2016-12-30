@@ -1,0 +1,30 @@
+---
+layout: "post"
+title: "Github"
+date: "2016-12-30 20:57"
+---
+# Github
+[Sehbi][935984e0] ist nun bei [Github][2a731031]. Alle guten Namen sind außerdem schon weg. :smile:
+
+## Einstieg
+- gute Turials, vielleicht hier und da ein wenig outdated. _RTFM_
+- komisches Gefühl gehabt, einen Pull Request mit mir selbst durch zu führen.
+- warum hab ich das Teil nicht schon früher entdeckt? :eyeroll:
+
+## Zwischenstand
+- alles mal beschnüffeln und [Jekyll][2b85ae57] aufsuchen
+- ich habe eine Testwebsite und kann weiter aufbauen.
+
+  [2b85ae57]: http://jekyllrb.com/ "Jekyll"
+
+## ToDo
+- [ ] [Atom Editor][bf298b29] vergithubben
+- [x] github client installieren
+- [ ] Plan von Dokumentenstruktur bekommen :grin:
+- [ ] mich um das lokale rep kümmern
+- [ ] fleißig [Content][dd9c8f65] produzieren.
+
+  [2a731031]: https://github.com/ "github"
+  [935984e0]: https://sehbi.github.io/ "Sehbi"
+  [bf298b29]: https://atom.io/ "atom.io"
+  [dd9c8f65]: https://de.wikipedia.org/wiki/Content "content"
